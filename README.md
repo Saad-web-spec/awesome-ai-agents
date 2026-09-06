@@ -5513,6 +5513,27 @@ Build-your-own, Productivity, General purpose
 
 
 
+
+## [DevScratchpad AI Skill Studio](https://www.devscratchpad.tech/ai-skill-studio)
+Client-side studio for Cursor .mdc rules, Claude skills, and AGENTS.md
+
+<details>
+
+### Category
+Coding, Developer Tools, Multi-Agent
+
+### Description
+DevScratchpad AI Skill Studio is a 100% client-side privacy-backed studio to compose, validate, and preview agent instructions and developer rules.
+- Generates Cursor `.mdc` rules, Claude Code `SKILL.md`, `CLAUDE.md`, and `AGENTS.md` directives
+- 36+ battle-tested stacks (Next.js 15, FastAPI, Supabase, Tailwind v4, Docker)
+- Zero server uploads, completely offline-first with Monaco code editor
+
+### Links
+- [Web](https://www.devscratchpad.tech/ai-skill-studio)
+- [GitHub](https://github.com/Saad-web-spec/DevScratchPad)
+
+</details>
+
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
 
 ### :eight_pointed_black_star: [Superagent](https://www.superagent.sh/)
