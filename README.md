@@ -5523,10 +5523,10 @@ Client-side studio for Cursor .mdc rules, Claude skills, and AGENTS.md
 Coding, Developer Tools, Multi-Agent
 
 ### Description
-DevScratchpad AI Skill Studio is a 100% client-side privacy-backed studio to compose, validate, and preview agent instructions and developer rules.
-- Generates Cursor `.mdc` rules, Claude Code `SKILL.md`, `CLAUDE.md`, and `AGENTS.md` directives
-- 36+ battle-tested stacks (Next.js 15, FastAPI, Supabase, Tailwind v4, Docker)
-- Zero server uploads, completely offline-first with Monaco code editor
+DevScratchpad AI Skill Studio is a 100% client-side, privacy-first workbench to compose, validate, and scaffold production agent instructions and developer rules.
+- Generates Cursor `.mdc`, Claude Code `SKILL.md`, `CLAUDE.md`, `AGENTS.md`, Windsurf, Copilot, and Gemini prompts across 13 formats
+- 5-Layer AI Agent Suite (.cursorignore, .claudeignore, llms.txt, ARCHITECTURE.md) with 333+ presets
+- Zero-install terminal CLI (`npx devscratchpad init`) with 100% client-side privacy and offline Monaco editor
 
 ### Links
 - [Web](https://www.devscratchpad.tech/ai-skill-studio)
